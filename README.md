@@ -18,12 +18,11 @@ the data, and then either insert new data or update existing data in a relationa
 
 Project modules are placed within the following structure:
 
-' Project
+ - Project
    - control
    - database
    - models
    - sqlscripts
    - tests
    - utilities
-'
 
