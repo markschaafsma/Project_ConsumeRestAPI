@@ -18,6 +18,11 @@ DEV_ENV = 'DEV'
 LOC_ENV = 'LOCAL'
 
 
+ORG_1 = ''
+ORG_2 = ''
+ORG_3 = ''
+
+
 API_JOB_TYPE = 'API'
 CSV_JOB_TYPE = 'CSV'
 

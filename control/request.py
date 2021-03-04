@@ -68,14 +68,3 @@ def setupRequestAndCall(thisConfig, thisJob):
     return thisJob
 
 
-
-
-# Suggested function to support app restructure.
-def	getClaims():
-
-    pass
-
-	# response = get_master_report()
-	# claims = extract claims from response
-	# return claims
-
